@@ -1,5 +1,5 @@
 # Bunker_of_Randomness
-This is a repository comprising of Mini Projects I Brainstormed over.
+This is a repository comprising of Projects I Brainstormed over.
 Screenshots of Project:
 
 ![image](https://github.com/PranjalBisen/Bunker_of_Randomness/assets/129518776/a9d1b185-1ced-41f4-b816-2dd50f21d0a1)
